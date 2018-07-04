@@ -1,6 +1,6 @@
 # Binary-Classification-with-Keras-Deep-Learning-Library
 
-### Question.
+### Objective.
 Program to build model using *Connectionist Bench dataset.*
 1. Load data and make it available to Keras.
 2. Design and train a neural network for tabular data.
